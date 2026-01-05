@@ -13,7 +13,7 @@ st.set_page_config(
 # =====================
 # GENERADOR
 # =====================
-st.title("🔧 Generador + Verificador de Dominios")
+st.title("🔧 Generador + Verificador de Dominios De ArturoVE")
 
 col1, col2, col3, col4, col5 = st.columns([1, 1, 1.5, 1.2, 1.2])
 
